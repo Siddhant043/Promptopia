@@ -1,5 +1,4 @@
 "use client";
-import { useSession } from "next-auth/react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 
 import Profile from "@components/profile";
