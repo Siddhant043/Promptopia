@@ -1,7 +1,7 @@
 "use client";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 
-import Profile from "@components/profile";
+import Profile from "@components/Profile";
 import { useEffect, useState } from "react";
 
 const MyProfile = () => {
